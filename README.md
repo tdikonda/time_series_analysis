@@ -1,1 +1,1 @@
-# time_series_forecasting_using_NN_-_LSTM
+# time_series_forecasting_using_NN_and_LSTM
